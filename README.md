@@ -1,6 +1,6 @@
 # Hello there, I'm carrotleague18 👋
 
-I'm passionate about building front-end web projects, learning new frameworks, and sharing what I learn. This profile highlights my languages, tools, services, and GitHub activity — including a contributions "snake" animation.
+I'm passionate about building front-end web projects, learning new frameworks, and sharing what I learn. This profile highlights my languages, tools, services, and GitHub activity 
 
 ---
 

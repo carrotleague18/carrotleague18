@@ -1,50 +1,65 @@
-# Hi, I’m carrotleague18 👋
+# Hello there, I'm carrotleague18 👋
 
-I build small, useful web projects and enjoy learning new languages and tools. This README was generated automatically by scanning my public repositories to highlight my skills, languages, and featured projects.
+I'm passionate about building front-end web projects, learning new frameworks, and sharing what I learn. This profile highlights my languages, tools, services, and GitHub activity — including a contributions "snake" animation.
 
 ---
 
-## About Me
-- Name: carrotleague18
-- Short bio: Passionate developer who builds front-end JavaScript projects, explores new frameworks, and contributes to open source.
+## Languages
+<!-- icons from simpleicons; change or reorder as you like -->
+<p align="left">
+  <img alt="JavaScript" src="https://cdn.simpleicons.org/javascript/000000" width="40" height="40" />
+  <img alt="React" src="https://cdn.simpleicons.org/react/61DAFB" width="40" height="40" />
+  <img alt="HTML5" src="https://cdn.simpleicons.org/html5/E34F26" width="40" height="40" />
+  <img alt="CSS3" src="https://cdn.simpleicons.org/css3/1572B6" width="40" height="40" />
+  <!-- add more icons as needed -->
+</p>
 
-## Auto-detected Skills & Languages
-(Scanned from: Movie-Searching, pomodoro-timer)
+## Tools
+<p align="left">
+  <img alt="Node.js" src="https://cdn.simpleicons.org/node.js/339933" width="40" height="40" />
+  <img alt="NPM" src="https://cdn.simpleicons.org/npm/CB3837" width="40" height="40" />
+  <img alt="Vite" src="https://cdn.simpleicons.org/vite/646CFF" width="40" height="40" />
+  <img alt="ESLint" src="https://cdn.simpleicons.org/eslint/4B32C3" width="40" height="40" />
+  <img alt="Git" src="https://cdn.simpleicons.org/git/F05032" width="40" height="40" />
+</p>
 
-- Languages:
-  - JavaScript
-  - HTML
-  - CSS
+## Services
+<p align="left">
+  <img alt="GitHub" src="https://cdn.simpleicons.org/github/181717" width="40" height="40" />
+  <img alt="Cloudflare" src="https://cdn.simpleicons.org/cloudflare/F38020" width="40" height="40" />
+  <img alt="MySQL" src="https://cdn.simpleicons.org/mysql/4479A1" width="40" height="40" />
+  <img alt="PostgreSQL" src="https://cdn.simpleicons.org/postgresql/31648F" width="40" height="40" />
+</p>
 
-- Frameworks & Libraries:
-  - React
-  - Vite
-
-- Tools & Platforms:
-  - Node.js & npm
-  - ESLint
-  - Git & GitHub
-
-- Concepts & Patterns:
-  - Component-based UI
-  - Context API
-  - Responsive design
-  - Consuming Web APIs
-
-If you'd like additional languages or tools added (for example: TypeScript, Python, Docker), tell me and I’ll update the list.
+---
 
 ## Featured Projects
-- Movie-Searching — A JavaScript + React app for searching movies
+- Movie-Searching — JavaScript + React
   - https://github.com/carrotleague18/Movie-Searching
-
-- pomodoro-timer — A lightweight Pomodoro timer using HTML/CSS/JS
+- pomodoro-timer — Vanilla HTML/CSS/JS
   - https://github.com/carrotleague18/pomodoro-timer
 
-(If you want more projects included, I can scan all your repos and add them here.)
+---
 
-## How I Work
-- I prefer small, incremental improvements and readable code.
-- I use GitHub Issues and simple project boards to organize work.
+## Stats
+
+<p align="left">
+  <!-- GitHub stats cards (dark theme) -->
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=carrotleague18&show_icons=true&theme=dark&hide_border=true" />
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carrotleague18&langs_count=8&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+---
+
+## Contributions (Snake)
+This shows the "snake" effect on the contribution graph — a fun visual of recent activity.
+
+<p align="center">
+  <!-- Contributions snake. If you prefer a different color or theme, we can tweak the URL -->
+  <img alt="contributions-snake" src="https://raw.githubusercontent.com/Platane/snk/master/snk.svg?user=carrotleague18&theme=dark" />
+</p>
+
+---
 
 ## Contact
 - GitHub: https://github.com/carrotleague18
@@ -52,8 +67,5 @@ If you'd like additional languages or tools added (for example: TypeScript, Pyth
 
 ---
 
-## Want this README updated automatically?
-I can re-run auto-detection to refresh skills and projects, or use a custom list you provide.
-
-## License
-This profile README is available under the MIT License.
+Want me to automatically keep this updated?
+- I can re-run auto-detection to refresh skills and projects, or use a custom list you provide.
